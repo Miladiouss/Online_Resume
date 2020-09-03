@@ -131,7 +131,7 @@ ul.p {
 }
 
 li.p {
-  line-height: 15px; 
+  line-height: 120%; 
   margin: 0 0 5px 0;
   border-bottom: none;
   list-style-type: disc;
